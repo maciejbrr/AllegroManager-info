@@ -1,4 +1,4 @@
-<img width="1025" height="850" alt="image" src="https://github.com/user-attachments/assets/fa9a0d7e-a8ba-42dd-99a9-17337936b4ff" /># AllegroManager-info
+
 AllegroManager-info
 AllegroManager
 
