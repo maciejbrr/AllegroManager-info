@@ -1,0 +1,2 @@
+# AllegroManager-info
+AllegroManager-info
